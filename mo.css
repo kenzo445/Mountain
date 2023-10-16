@@ -1,0 +1,135 @@
+img{
+    width: 800;
+    height: 430px;
+    padding-left: 40px;
+    margin-top: 20px;
+    padding-top: 18px;
+    border-radius: 357px  23px;
+    box-shadow: 5px 5px  14px #313030;
+    margin: 20px 300px;
+}
+body{
+    margin: 0px;
+    
+    background-color:#8a788d;
+}
+
+h2{
+    color: #ada7ad;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 300px;
+}
+ul#menu{
+    padding: 0px 300px;
+    
+}
+ul#menu li{
+
+    display: inline;
+    padding-left: 10px;
+    padding-top: 5px;
+    
+
+}
+ul#menu li a{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+    border-radius:8px 28px;
+    box-shadow:5px 5px  24px ;
+    
+}
+
+ul#menu li a:hover{
+    background-color: plum;
+}
+
+
+div.place{
+    background-color: bisque;
+    margin-top: 24px;
+    border-radius: 23px 74px;
+    box-shadow: 8px 8px  4px#000;
+    margin: 20px 300px;
+    padding: 24px;
+}
+h2#title{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    margin: 0px 0px;
+}
+
+.inner-footer{
+     margin: 0;
+     padding: 0;
+     background-color: #272727;
+}
+
+.social-links{
+    display: flex;
+}
+
+.social-links ul{
+    padding: 10px;
+    display: flex;
+    width: 300px;
+    height: 30px;
+    margin: auto;
+}
+
+.social-items{
+    list-style: none;
+}
+
+.social-items a:hover{
+    color: white;
+}
+
+
+.social-items a{
+    padding: 10px 20px;
+    font-size: 30px;
+    color: #6cc;
+    
+    
+
+}
+
+.quick-links{
+    display: flex;
+    width: 560px;
+    height: 70px;
+    margin: auto;
+    
+}
+
+.quick-links ul{
+    display: flex;
+}
+
+.quick-items a:hover{
+    color: #6cccc6;
+}
+.quick-items{
+    list-style: none;
+}
+
+.quick-items a{
+    text-decoration: none;
+    padding: 0px 15px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.outer-footer{
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    background-color: #3f3f3f;
+    font-size: 18px;
+}
